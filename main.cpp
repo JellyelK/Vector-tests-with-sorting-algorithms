@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstdlib>   // for srand and rand
 #include <vector>
-#include <iostream>
 #include <chrono>
 
 using namespace std;
