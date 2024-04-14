@@ -4,6 +4,9 @@
 
 This work aims to compare and analyze the performance of six sorting algorithms: Bubble Sort, Selection Sort, Insertion Sort, Shell Sort, Quick Sort, and Merge Sort.
 
+**Observation**
+* If the code doesn't work for vectors larger than 1000 elements, adjust the MergeSort range. Please read the comment provided.
+
 **Introduction**
 
 Sorting is a fundamental operation in computer science, with various applications. The goal of a sorting algorithm is to organize a set of data in ascending or descending order.
