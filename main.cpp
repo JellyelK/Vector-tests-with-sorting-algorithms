@@ -7,15 +7,6 @@
 using namespace std;
 using namespace std::chrono;
 
-//function just to print the array
-void printArray(vector<int> &v){
-    int n=v.size();
-    for(int i=0;i<n;i++){
-        cout<<v[i]<<" ";
-    }
-    cout<<endl;
-}
-
 //function to swap elements
 void swap(int* a, int* b){
     int t = *a;
